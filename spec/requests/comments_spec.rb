@@ -94,7 +94,7 @@ RSpec.describe "Comments", type: :request do
 
         click_link 'New Comment'
         expect(current_path).to eq(new_comment_path)
-
+        //
         fill_in 'comment_message', with: ''
         select @article.title, from: 'comment[article_id]'
         select @user.email, from: 'comment[user_id]'
