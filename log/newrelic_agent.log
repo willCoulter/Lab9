@@ -56,3 +56,138 @@
 [2019-04-05 08:31:18 -0400 web615-student (30750)] INFO : Starting Agent shutdown
 [2019-04-05 08:31:20 -0400 web615-student (30727)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
 [2019-04-05 08:31:35 -0400 web615-student (30770)] INFO : Starting Agent shutdown
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : Environment: development
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : No known dispatcher detected.
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : Application: Legit News (Development)
+[2019-04-11 22:15:31 -0400 web615-student (568)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Net instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Finished instrumentation
+[2019-04-11 22:15:32 -0400 web615-student (611)] INFO : Starting Agent shutdown
+[2019-04-11 22:15:32 -0400 web615-student (606)] INFO : Starting Agent shutdown
+[2019-04-11 22:15:32 -0400 web615-student (568)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Environment: development
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : No known dispatcher detected.
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Application: Legit News (Development)
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Net instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Finished instrumentation
+[2019-04-11 22:15:35 -0400 web615-student (652)] INFO : Starting Agent shutdown
+[2019-04-11 22:15:35 -0400 web615-student (623)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:16:16 -0400 web615-student (623)] INFO : Starting Agent shutdown
+[2019-04-11 22:16:16 -0400 web615-student (568)] INFO : Starting Agent shutdown
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Environment: development
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : No known dispatcher detected.
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Application: Legit News (Development)
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Environment: development
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : No known dispatcher detected.
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Application: Legit News (Development)
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Net instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Net instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (822)] INFO : Finished instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:16:36 -0400 web615-student (820)] INFO : Finished instrumentation
+[2019-04-11 22:16:37 -0400 web615-student (822)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:16:37 -0400 web615-student (820)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Environment: development
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : No known dispatcher detected.
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Application: Legit News (Development)
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Net instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:16:38 -0400 web615-student (876)] INFO : Finished instrumentation
+[2019-04-11 22:16:39 -0400 web615-student (942)] INFO : Starting Agent shutdown
+[2019-04-11 22:16:39 -0400 web615-student (876)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:16:39 -0400 web615-student (956)] INFO : Starting Agent shutdown
+[2019-04-11 22:17:56 -0400 web615-student (1213)] INFO : Starting Agent shutdown
+[2019-04-11 22:18:20 -0400 web615-student (1234)] INFO : Starting Agent shutdown
+[2019-04-11 22:18:20 -0400 web615-student (1234)] INFO : Unable to send metric_data data, will try again later. Error: 
+[2019-04-11 22:18:20 -0400 web615-student (1234)] INFO : OpenSSL::SSL::SSLError: SSL_read: decryption failed or bad record mac
+[2019-04-11 22:18:20 -0400 web615-student (876)] INFO : Starting Agent shutdown
+[2019-04-11 22:18:20 -0400 web615-student (822)] INFO : Starting Agent shutdown
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Environment: development
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : No known dispatcher detected.
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Application: Legit News (Development)
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Starting the New Relic agent version 4.8.0.341 in "development" environment.
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Reading configuration from config/newrelic.yml (/home/web615/Desktop/web615-lab8)
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Environment: development
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : No known dispatcher detected.
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Application: Legit News (Development)
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Net instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing ActiveRecord 5 instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Rails 3+ middleware instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Net instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing deferred Rack::Builder instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Rack::Builder middleware instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing ActiveJob instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1245)] INFO : Finished instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Rails 5 view instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Rails 5 Controller instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Installing Rails 5 Action Cable instrumentation
+[2019-04-11 22:18:22 -0400 web615-student (1246)] INFO : Finished instrumentation
+[2019-04-11 22:18:23 -0400 web615-student (1245)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:18:23 -0400 web615-student (1246)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1922816/applications/121096660
+[2019-04-11 22:25:41 -0400 web615-student (1561)] INFO : Starting Agent shutdown
+[2019-04-11 22:26:23 -0400 web615-student (1246)] INFO : Unable to send metric_data data, will try again later. Error: 
+[2019-04-11 22:26:23 -0400 web615-student (1246)] INFO : OpenSSL::SSL::SSLError: SSL_read: decryption failed or bad record mac

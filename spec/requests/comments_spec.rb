@@ -49,7 +49,12 @@ RSpec.describe "Comments", type: :request do
 
         expect(page).to have_content(@comment.user.email)
         expect(page).to have_content(@comment.article.title)
-        expect(page).to have_content(@comment.message)
+        expect(page).to have_content(@comment.message) 
+      end
+      it 'uuid check' do
+        @comment = FactoryBot.create(:comment)
+        visit comment_path(@comment.uuid)
+        expect(current_path).to eq(comment_path(@comment))
       end
     end
 

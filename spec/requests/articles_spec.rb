@@ -50,6 +50,13 @@ RSpec.describe "Articles", type: :request do
         expect(page).to have_content(@article.content)
         expect(page).to have_content(@article.user.email)
       end
+
+      it 'uuid check' do
+        @article = FactoryBot.create(:article)
+        visit article_path(@article.uuid)
+        expect(current_path).to eq(article_path(@article))
+      end
+
     end
 
     describe 'invalid: ' do
